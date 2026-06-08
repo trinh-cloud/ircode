@@ -1,1 +1,1 @@
-pip install bm25s numpy scikit-learn 
+pip install bm25s numpy scikit-learn tqdm
